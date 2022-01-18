@@ -37,7 +37,18 @@ Requried Files To Downlaod:
     
     
     
+Making Bootable Opencore Hackintosh:-
     
+      1. Gether Kext You Required 
+      2. Edit config.plist as your hardware shown in opencore site
+      3. If you Are Using the same config.plist as me then use GenSMBIOS (Removed Mine For Privacy issues):-
+              iMac15,1 - For dGpu User
+                       OR
+              iMac14,4 - For iGpu User
+      4. Edit Your BIOS Setting And Boot From USB
+      
+
+
 If Having Issues While Installing Hackintosh:(Ignore If You Installed Successfully WIthout Any Error)
   
   Q1. Can't Install Macos On SSD After One/Two Installation Reboot Can't Find Marcos List on Opencore BootMenu:
@@ -78,7 +89,7 @@ If Having Issues While Installing Hackintosh:(Ignore If You Installed Successful
                   
                   
 
-Useful Links For Scrach Build Of Hackintosh Opencore ( Not Me ):-
+Useful Links For Scratch Build Of Hackintosh Opencore ( Not Me ):-
     
     1. Pre-Installtion Guide :-
     
@@ -97,5 +108,3 @@ Having Any Query Or Want To Thank me:-
     1. linkedin.com/in/ankitpipalia
     2. instagram.com/ankitpipalia
     2. twitter.com/ankitpipalia
-    
-
