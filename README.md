@@ -61,7 +61,7 @@ If Having Issues While Installing Hackintosh:(Ignore If You Installed Sucessfull
   Q2. Issue With Nvidia Web Driver / Low Graphics Memory:
             
            Step 1:-
-                  Source(https://www.youtube.com/watch?v=kJdMOlDYSWM)
+                  Source Of fix :- (https://www.youtube.com/watch?v=kJdMOlDYSWM)
                   Reboot To Recovery And Open Terminal And Write "csrutil disable" Now Reboot To Macos
                   
            Step 2:-
@@ -73,7 +73,7 @@ If Having Issues While Installing Hackintosh:(Ignore If You Installed Sucessfull
                   Y
                   Enter
                   Reboot And Install Nvidia Web Driver Pkg
-                  Do
+                  Done
                   
                   
 
