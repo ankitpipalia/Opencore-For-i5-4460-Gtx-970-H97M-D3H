@@ -3,14 +3,14 @@
 OpenCore Build 0.7.7
 
 
-My Hardware List:
-
-  1.Intel i5-4460 (Hashwell)
-  2.Gigabyte H97M D3H (LGA 1150)
-  3.Msi Gtx 970
-  4.8Gb Ram (4Gb x 2)
-  5.Adata SU800 256Gb SSD (For Macos)
-  6.Wd 1tb HDD
+My Hardware List :-
+  
+    1.Intel i5-4460 (Hashwell)
+    2.Gigabyte H97M D3H (LGA 1150)
+    3.Msi Gtx 970
+    4.8Gb Ram (4Gb x 2)
+    5.Adata SU800 256Gb SSD (For Macos)
+    6.Wd 1tb HDD
 
 
 Requried Files To Downlaod:
