@@ -3,7 +3,7 @@
 OpenCore Build 0.7.7
 
 
-My Hardware List :-
+My Hardware List:-
   
     1.Intel i5-4460 (Hashwell)
     2.Gigabyte H97M D3H (LGA 1150)
@@ -23,7 +23,7 @@ Requried Files To Downlaod:
     
     2.Plist Editor :- https://github.com/corpnewt/ProperTree (Windows/Linux/Macos)
                                                    OR 
-                      https://mackie100projects.altervista.org/opencore-configurator/ (Macos Only)
+                      https://mackie100projects.altervista.org/opencore-configurator/ (macOS Only)
                       
     3.GenSMBIOS :- https://github.com/corpnewt/GenSMBIOS
     
@@ -38,38 +38,38 @@ Requried Files To Downlaod:
     
     
     
-If Having Issues While Installing Hackintosh:(Ignore If You Installed Sucessfully WIthout Any Error)
+If Having Issues While Installing Hackintosh:(Ignore If You Installed Successfully WIthout Any Error)
   
-  Q1. Can't Install Macos On SSD After One/Two Installtion Reboot Can't Find Macos List on Opencore BootMenu:
+  Q1. Can't Install Macos On SSD After One/Two Installation Reboot Can't Find Marcos List on Opencore BootMenu:
            
            Step 1:-
               This Problem Happens Because Of SSD Disk Format issue(APFS is THe MAin Reason)
            
            Step 2:-
-              For This Problem You Have To First Install Macos On HDD 
+              For This Problem, You Have To First Install Macos On HDD 
            
            Step 3:-
               After Installing In HDD You Have to Reboot To Recovery And Format SSD To Mac OS Extended (Journaled)
-              Now Clone Your HDD TO SSD Via Restore Option in Disk Utlity in Recovery
-              After Sucessful Clone Format your HDD And Reboot
+              Now Clone Your HDD TO SSD Via Restore Option in Disk Utility in Recovery
+              After Successful Clone Format your HDD And Reboot
            
            Step 4:-
               After Booting From The SSD Add EFI To Your SSD
-              Done You Installed Sucessfuly Macos On Non-Compitible SSD Drive 
+              Done You Installed Successfully Marcos On Non-Compatible SSD Drive 
               
               
               
   Q2. Issue With Nvidia Web Driver / Low Graphics Memory:
             
            Step 1:-
-                  Source Of fix :- (https://www.youtube.com/watch?v=kJdMOlDYSWM)
-                  Reboot To Recovery And Open Terminal And Write "csrutil disable" Now Reboot To Macos
+                  Source Of fix:- (https://www.youtube.com/watch?v=kJdMOlDYSWM)
+                  Reboot To Recovery And Open Terminal And Write "csrutil disable" Now Reboot To macOS
                   
            Step 2:-
                   Open Terminal And Write "sudo nano -w /system/library/coreservices/systemversion.plist"
                   
            Step 3:-
-                  Change Ver. "17G14042" <-- #Check The Macos Latest Version Of Macos From (https://www.tonymacx86.com/nvidia-drivers/)
+                  Change Ver. "17G14042" <-- #Check The macOS Latest Version Of Macos From (https://www.tonymacx86.com/nvidia-drivers/)
                   CTRL +x
                   Y
                   Enter
