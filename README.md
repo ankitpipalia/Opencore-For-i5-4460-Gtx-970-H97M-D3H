@@ -79,3 +79,8 @@ If Having Issues While Installing Hackintosh:(Ignore If You Installed Sucessfull
 
 
 
+Having Any Query Or Want To Thank me :-
+    1. instagram.com/ankitpipalia
+    2. twitter.com/ankitpipalia
+    
+
