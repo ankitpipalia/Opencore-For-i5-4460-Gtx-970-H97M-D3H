@@ -11,6 +11,7 @@ My Hardware List :-
     4.8Gb Ram (4Gb x 2)
     5.Adata SU800 256Gb SSD (For Macos)
     6.Wd 1tb Internal HDD (For Data Storage)
+    7.Tp-Link T2u Plus(Mercusys MU6H AC650)
 
 
 Requried Files To Downlaod:
