@@ -78,6 +78,18 @@ If Having Issues While Installing Hackintosh:(Ignore If You Installed Successful
                   
                   
 
+Useful Links For Scrach Build Of Hackintosh Opencore ( Not Me ):-
+    
+    1. Pre-Installtion Guide :-
+    
+            https://youtu.be/uzJgD3UgVnA
+            
+    2. Post Installtion Guide :-
+    
+            https://youtu.be/IP7crXa-5lo
+
+
+
 
 
 Having Any Query Or Want To Thank me:-
