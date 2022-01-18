@@ -31,23 +31,25 @@ Requried Files To Downlaod:
  (2) Post-Install Files :-
  
     1.Latest Nvidia Web Driver (Till Macos 10.13.6) :- https://www.tonymacx86.com/nvidia-drivers/
+    
     2.Tp-Link T2u Plus(Mercusys MU6H AC650) :- https://www.tp-link.com/us/support/download/archer-t2u-plus/. (Select According To Your Macos Version)
+    
+    
     
     
 If Having Issues While Installing Hackintosh:(Ignore If You Installed Sucessfully WIthout Any Error)
   
   Q1. Can't Install Macos On SSD After One/Two Installtion Reboot Can't Find Macos List on Opencore BootMenu:
-  Answer:- 
            
            Step 1:-
-              This Problem Happens Because Of SSD Disk Format issue(APFS)
+              This Problem Happens Because Of SSD Disk Format issue(APFS is THe MAin Reason)
            
            Step 2:-
               For This Problem You Have To First Install Macos On HDD 
            
            Step 3:-
               After Installing In HDD You Have to Reboot To Recovery And Format SSD To Mac OS Extended (Journaled)
-              And Clone YOur HDD TO SSD Via Restore Option in Disk Utlity
+              Now Clone Your HDD TO SSD Via Restore Option in Disk Utlity in Recovery
               After Sucessful Clone Format your HDD And Reboot
            
            Step 4:-
@@ -57,13 +59,14 @@ If Having Issues While Installing Hackintosh:(Ignore If You Installed Sucessfull
               
               
   Q2. Issue With Nvidia Web Driver / Low Graphics Memory:
-  Answer:-  
             
            Step 1:-
                   Source(https://www.youtube.com/watch?v=kJdMOlDYSWM)
                   Reboot To Recovery And Open Terminal And Write "csrutil disable" Now Reboot To Macos
+                  
            Step 2:-
                   Open Terminal And Write "sudo nano -w /system/library/coreservices/systemversion.plist"
+                  
            Step 3:-
                   Change Ver. "17G14042" <-- #Check The Macos Latest Version Of Macos From (https://www.tonymacx86.com/nvidia-drivers/)
                   CTRL +x
@@ -73,6 +76,6 @@ If Having Issues While Installing Hackintosh:(Ignore If You Installed Sucessfull
                   Do
                   
                   
-                  
-               
-           
+
+
+
