@@ -33,7 +33,7 @@ Requried Files To Downlaod:
  
     1.Latest Nvidia Web Driver (Till Macos 10.13.6) :- https://www.tonymacx86.com/nvidia-drivers/
     
-    2.Tp-Link T2u Plus(Mercusys MU6H AC650) :- https://www.tp-link.com/us/support/download/archer-t2u-plus/. (Select According To Your Macos Version)
+    2.Tp-Link T2u Plus(Mercusys MU6H AC650) :- https://www.tp-link.com/us/support/download/archer-t2u-plus/ (Select According To Your Macos Version)
     
     
     
