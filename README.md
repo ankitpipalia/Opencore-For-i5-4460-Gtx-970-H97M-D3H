@@ -42,7 +42,7 @@ Making Bootable Opencore Hackintosh:-
       1. Gether Kext You Required 
       2. Edit config.plist as your hardware shown in opencore site
       3. If you Are Using the same config.plist as me then use GenSMBIOS (Removed Mine For Privacy issues):-
-              iMac15,1 - For dGpu User
+              iMac15,1 - For dGpu User(Till Macos 10.13.6 / High Sierra)
                        OR
               iMac14,4 - For iGpu User
       4. Edit Your BIOS Setting And Boot From USB
